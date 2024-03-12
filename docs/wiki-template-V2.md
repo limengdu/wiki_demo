@@ -4,7 +4,7 @@ title: Wiki Template
 keywords:
 - Template
 image: https://files.seeedstudio.com/wiki/seeed_logo/logo_2023.png
-slug: wiki URL
+slug: /wiki_template_v2
 last_update:
   date: 03/03/2024
   author: Citric
@@ -609,6 +609,9 @@ export const Highlight = ({children, color}) => (
 
 ## Tabs
 
+<!-- 
+
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
@@ -622,7 +625,10 @@ import TabItem from '@theme/TabItem';
   <TabItem value="banana" label="Banana">
     This is a banana 🍌
   </TabItem>
-</Tabs>
+</Tabs> 
+
+
+-->
 
 ## 警告与提示
 
