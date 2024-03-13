@@ -9,15 +9,6 @@ last_update:
   author: Seraphina
 ---
 
-<<<<<<< HEAD
-## Greetings
-
-This is Seraphina in Seeed Studio and welcome to the Seeed Studio weekly wiki! Each Monday, I will introduce you our latest wiki, including the ones related to our new products, the interesting projects published by Seeed Studio, and the tutorials, introductions, etc... You name it.
-
-=======
-# 刘海旭天下第二帅
->>>>>>> 52d2698 (Add: liuhaixu content)
-
 <div align="center"><img width={1000} src="https://files.seeedstudio.com/wiki/IndexWiki/logo.png" /></div>
 
 ## Greetings
