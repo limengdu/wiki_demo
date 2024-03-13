@@ -9,7 +9,7 @@ last_update:
   author: Seraphina
 ---
 
-# 黎孟度天下第一刷
+# 刘海旭天下第一帅
 
 ## Greetings
 
